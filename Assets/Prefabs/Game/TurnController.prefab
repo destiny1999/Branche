@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4702051782682515118
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4702051782682515117}
+  - component: {fileID: 4702051782682515116}
+  - component: {fileID: -6261282957643090880}
+  m_Layer: 0
+  m_Name: TurnController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4702051782682515117
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4702051782682515118}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -8.98, y: -2.01, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4702051782682515116
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4702051782682515118}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8be4f29b7e154147b08f297d8c76d90, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TC: {fileID: 4702051782682515118}
+  GC: {fileID: 803156474766074486, guid: 3541b74aba2f26c47b46db311f936ed1, type: 3}
+  SB: {fileID: 6708351684020435321, guid: 3dfade840bdc0f04e984dbfd3381cadf, type: 3}
+  ChangeCardPos: 5
+  PA: {fileID: 1462292644911912326, guid: 949b43a8fa124904db3ada43ca4757a8, type: 3}
+  A_Role: {fileID: 0}
+  count: 56
+  ChangeButtonCanvas: {fileID: 133341978698382221, guid: 367387ffd4a781a40892d2048c3898d8,
+    type: 3}
+  ChangeButton: {fileID: 3435387365849726645, guid: 15e80af4213e2f74895062dcb8068b2d,
+    type: 3}
+  Csource: {fileID: 2950387163884826788, guid: b9a9914ab59fb024db4865a8bd09af85, type: 3}
+--- !u!114 &-6261282957643090880
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4702051782682515118}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac557fc65b30fce4080bf005a3d8bd3a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  GC: {fileID: 803156474766074486, guid: 3541b74aba2f26c47b46db311f936ed1, type: 3}
+  SB: {fileID: 6708351684020435321, guid: 3dfade840bdc0f04e984dbfd3381cadf, type: 3}
+  PA: {fileID: 1462292644911912326, guid: 949b43a8fa124904db3ada43ca4757a8, type: 3}
+  A_Role: {fileID: 4343727234628468602, guid: 45746f1acf91e1647b6e7b423bfb6dc5, type: 2}
+  ChangeButton: {fileID: 133341978698382221, guid: 367387ffd4a781a40892d2048c3898d8,
+    type: 3}
+  ChangeNum: 5

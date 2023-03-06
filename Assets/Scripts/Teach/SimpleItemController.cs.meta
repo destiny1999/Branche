@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1a9819d95fa0b3847910a527f760aa7c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cake: {fileID: 21300000, guid: 6c79739dbaed05446b1bfaed4e61b61e, type: 3}
+  - juice: {fileID: 21300000, guid: dcdc538b788e7e44c843f9e050176232, type: 3}
+  - steak: {fileID: 21300000, guid: 114c244e477e2c641aec4b9df6f86d06, type: 3}
+  - showItem: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

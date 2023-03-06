@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: OGC
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 79d4a0660e3920246a5a7df6220b6a6f, type: 3}
+    - {fileID: 21300000, guid: 7e97ec1fdeb9bfc4cbd482cf7040bddc, type: 3}
+    - {fileID: 21300000, guid: bebffd498fce06a4d829037f4bfaf18a, type: 3}
+    - {fileID: 21300000, guid: ae4d5a890030bbf4a8330a228e743fae, type: 3}
+    - {fileID: 21300000, guid: d6272cc5f9fa8bc40918cdcbd4733210, type: 3}
+    - {fileID: 21300000, guid: b0687d893ade1ed4eae1ef97477eaa56, type: 3}
+    - {fileID: 21300000, guid: 7fe53713b03fb78449810041473b2314, type: 3}
+    - {fileID: 21300000, guid: 15233ff95d24346429fbadbeb1219add, type: 3}
+    - {fileID: 21300000, guid: b627f482e1a7fd746b108e6f386f4b95, type: 3}
+    - {fileID: 21300000, guid: 34a8dfa89c9d1b145ad3895e5f0bb310, type: 3}
+    totalSpriteSurfaceArea: 523980
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b627f482e1a7fd746b108e6f386f4b95, type: 3}
+  - {fileID: 21300000, guid: 7fe53713b03fb78449810041473b2314, type: 3}
+  - {fileID: 21300000, guid: d6272cc5f9fa8bc40918cdcbd4733210, type: 3}
+  - {fileID: 21300000, guid: 79d4a0660e3920246a5a7df6220b6a6f, type: 3}
+  - {fileID: 21300000, guid: 34a8dfa89c9d1b145ad3895e5f0bb310, type: 3}
+  - {fileID: 21300000, guid: bebffd498fce06a4d829037f4bfaf18a, type: 3}
+  - {fileID: 21300000, guid: ae4d5a890030bbf4a8330a228e743fae, type: 3}
+  - {fileID: 21300000, guid: b0687d893ade1ed4eae1ef97477eaa56, type: 3}
+  - {fileID: 21300000, guid: 15233ff95d24346429fbadbeb1219add, type: 3}
+  - {fileID: 21300000, guid: 7e97ec1fdeb9bfc4cbd482cf7040bddc, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - OGC9
+  - OGC7
+  - OGC5
+  - OGC1
+  - OGC10
+  - OGC3
+  - OGC4
+  - OGC6
+  - OGC8
+  - OGC2
+  m_Tag: OGC
+  m_IsVariant: 0
